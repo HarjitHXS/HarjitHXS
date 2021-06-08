@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [my gitprofile](my gitprofile)
+- 👨‍💻 All of my projects are available at my gitprofile.
 
 
 <h3 align="left">Languages and Tools:</h3>
